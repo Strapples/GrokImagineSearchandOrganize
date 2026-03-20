@@ -16,6 +16,9 @@ A Tampermonkey userscript that adds a **full-text search interface** to your sav
 - 💬 **Prompt tooltip** — hover any result card to see the full prompt
 - 🖱 **Click to open** — click any image to open the full-resolution version in a new tab
 - ⌨️ **Keyboard shortcuts** — `Ctrl/Cmd+F` to focus search, `←` `→` to page through results
+- Empty bar shows all images WIP
+- persistent tags WIP
+- download baked PNG WIP
 
 ---
 
